@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+justify-content: flex-end;
+}
+
+.carre{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(144, 94, 190);
+    border: solid 2px;
+    margin: 5px;
+}

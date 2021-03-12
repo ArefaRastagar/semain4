@@ -1,0 +1,57 @@
+body{
+    background-color: grey;
+}
+.titre{
+    width: 1300px;
+    height: 70px;
+    background-color: white;
+}
+
+.continer1{
+    width: 1300px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.continer2 img{
+    width: 100px;
+    height: 150px;
+    
+}
+
+.bloc{
+    display: flex;
+    justify-content: left;
+    margin: 10px;
+}
+
+.continer3{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.continer2{
+    align-items: center;
+}
+
+.continer2, .continer3{
+    background-color: white;
+    margin: 10px;
+}
+
+.continer3 img{
+    width: 300px;
+    height: 300px;
+}
+
+
+
